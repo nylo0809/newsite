@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 25px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.lower-container {
+  background-color: #66BFBF;
+  padding: 15px 0 5px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.05rem;
+  padding: 20px;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.Hobbies-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.circle-cropped-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.photography-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 40px;
+}
+
+.btn {
+  background-color: #11999e;
+  border-radius: 8px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 16px 13px;
+  text-decoration: none;
+  text-shadow: auto 10px auto #2f6627;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: #2bc4ad;
+  color: #eaf6f6;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
